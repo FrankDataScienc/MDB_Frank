@@ -40,12 +40,12 @@
   height: 100%;
 }
 
-#place-time {
+#principalesEstudios {
   background-color: #343a40;
   color: white;
 }
 
-#place-time img {
+#principalesEstudios img {
   max-width: 100%;
 }
 
@@ -55,4 +55,13 @@
 
 #footer a {
   color: white;
+}
+
+#tecSkills {
+  background-color: #343a40;
+  color: white;
+}
+
+#tecSkills h4 {
+  color: #343a40;
 }
